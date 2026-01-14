@@ -1,3 +1,5 @@
+AI CODE ANALYZER
+
 This repository is about Analyzing code using AI
 In this i used the ERPNEXT Sales Module for analyzing code using AI and created a code ANALYZER and Extractor as well
 With the help of this the analyzer the code which is present in the module will be analyzed and the contents in the module will be fetched like relationships, classes etc
